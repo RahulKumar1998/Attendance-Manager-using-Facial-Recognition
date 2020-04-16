@@ -1,3 +1,5 @@
+<h2> Components of project </h2>
+<p>
 This is an attendance management system for the colleges.
 
 Different components of the project :
@@ -10,3 +12,4 @@ Different components of the project :
 
 
 
+</p>
