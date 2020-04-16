@@ -1,6 +1,9 @@
-<h2> Components of project </h2>
-<p>
+<h2>Introduction</h2>
 This is an attendance management system for the colleges.
+
+<h2> Components of project </h2>
+
+
 
 Different components of the project :
 1) Camera module of the raspberrypi.
@@ -9,7 +12,3 @@ Different components of the project :
 4) DynamoDB database for storing and managing database.
 5) Django framework for frontend.
 6) pythonanywhere.com whrere our website is deployed and is available on the url : www.prateekaryan.pythonanywhere.com 
-
-
-
-</p>
